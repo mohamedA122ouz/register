@@ -32,8 +32,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [my solution](https://github.com/mohamedA122ouz/register/tree/main)
+- Live Site URL: [my live solution](https://mohameda122ouz.github.io/register/)
 
 ## My process
 
